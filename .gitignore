@@ -1,0 +1,6 @@
+# Ignore pyc files
+.pyc
+
+# Ignore csv file
+.csv
+
